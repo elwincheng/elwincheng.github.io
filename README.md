@@ -1,5 +1,3 @@
-# elwincheng.github.io
-
 - [About Me](about/me.md)
 - [Hello Page](hello.md)
 - [Database](database.md)
