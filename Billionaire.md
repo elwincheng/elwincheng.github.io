@@ -21,6 +21,10 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
  		- read sci-fi
    		- go to the forefront of any field
 - Get a cofounder
+	- YC says:
+ 		- startups are hard enough alone
+   		- emotional resistance is better
+     	-    
 - Copy/imitate/mime other billionaires /pseudo billionaires
 	- peter thiel
 	- Marc andreesen
