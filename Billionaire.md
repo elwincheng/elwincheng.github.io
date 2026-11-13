@@ -29,4 +29,5 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
 	- Enjoyment != not difficult. You can still run a marathon and still enjoy it even though you will question yourself on the 20th km.
 		- Paul graham says that creating a company is all consuming, so I imagine it would be like running a 300m dash 24/7, and he says it only gets more demanding the longer you’re in.
 - Surround yourself with billionaires and future billionaires
+	- Not everyone can do this easily, but you can find substitutes like consuming books and content created by billionaires 
 
