@@ -43,9 +43,17 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
  	- Eat more calories
   		- Your brain takes up 20% of your calorie budget
     	- if you eat more food you get more brain tokens
-    - Don't say bad things about yourself to yourself or anyone else
-    	- I maintain a positive view of myself
-     		- By doing good things 
+    - Maintain a positive view of yourself
+     	- By doing good things 
  		- Don't let what other people think about you affect you
     		- I just imagine that they are probably not very smart
+- Working with others
+	- Focus on providing value to others first
+- Thinking
+	- Always question your assumptions and intuition.
+ 		- Paul graham says that startups are notoriously counter intuitive (link here please) 
+	- Be rigorous
+	- Be precise
+ 	- Get your theory into the real world by running experiments
+-  
 
