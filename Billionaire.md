@@ -44,7 +44,8 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
   		- Your brain takes up 20% of your calorie budget
     	- if you eat more food you get more brain tokens
     - Don't say bad things about yourself to yourself or anyone else
-    	- I try to maintain a positive view of myself
+    	- I maintain a positive view of myself
+     		- By doing good things 
  		- Don't let what other people think about you affect you
-    - 
+    		- I just imagine that they are probably not very smart
 
