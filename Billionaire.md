@@ -8,13 +8,13 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
 	- Make using ai as frictionless as possible. Every ounce of friction uses up your human brain tokens, which is limited. 
 		- I personally use Google Chrome for its built in ai, i only need to press ctrl+g to use Gemini.
 - Bet on serendipitous activities
-	- billion dollar ideas usually happen organically in the wild, e.g. airbnb, uber, stripe, scale ai 
+	- billion dollar ideas usually happen organically in the wild, e.g. airbnb, uber, stripe, scale ai
+ 	- Live in a city with high density of talented, creative, and open people
 - Try to find secrets
 	- Most obvious billion dollar ideas have  already been taken or have too many competitors.
 	- Examples: airbnb, uber, 
 	- Look into the future
 - Get a cofounder
-- Live in a place with access to talented people. 
 - Copy/imitate/mime other billionaires /pseudo billionaires
 	- peter thiel
 	- Marc andreesen
