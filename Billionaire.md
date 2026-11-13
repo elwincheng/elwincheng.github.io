@@ -18,6 +18,8 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
 	- Most obvious billion dollar ideas have  already been taken or have too many competitors.
 	- Examples: airbnb, uber, 
 	- Look into the future
+ 		- read sci-fi
+   		- go to the forefront of any field
 - Get a cofounder
 - Copy/imitate/mime other billionaires /pseudo billionaires
 	- peter thiel
