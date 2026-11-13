@@ -80,11 +80,10 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
 - Expect failure, but also expect success (realism rather than pure optimism or pure pessimism)
 	- Some valuable resources can only be acquired through temporary emotional suffering (unless you are a robot)
  		- getting rejected by vc over and over again
-  	- Because the upside risk heavily outweigh the downside risk
-  	- how
-		- play more poker
-  		- get rejected by more people
-  	- Power law dictates that for some actions, 90% will be failures, but the successes are astronomical
+   - but the the upside risk heavily outweigh the downside risk
+	- play more poker
+ - get rejected by more people
+ - Power law dictates that for some actions, 90% will be failures, but the successes are astronomical
 -  Traits
 	- Emotional stability and resilience
  		- Being able to reason and think clearly during times of high stress and uncertainty
