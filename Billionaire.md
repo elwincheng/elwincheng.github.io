@@ -53,7 +53,9 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
 	- Always question your assumptions and intuition.
  		- Paul graham says that startups are notoriously counter intuitive (link here please) 
 	- Be rigorous
+ 		- explain why here later thanks 
 	- Be precise
+ 		- explain why here later 
  	- Get your theory into the real world by running experiments
 -  
 
