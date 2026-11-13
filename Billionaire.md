@@ -44,6 +44,7 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
      	- By doing good things 
  		- Don't let what other people think about you affect you
     		- I just imagine that they are probably not very smart
+	- Build or join a supportive community 
 - Working with others
 	- Focus on providing value to others
 - Thinking
