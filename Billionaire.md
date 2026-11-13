@@ -27,5 +27,6 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
 - Enjoy what you are doing
 	- It is hard to work hard on something you don’t enjoy.
 	- Enjoyment != not difficult. You can still run a marathon and still enjoy it even though you will question yourself on the 20th km.
-		- Even though I’m in the early stages of my startup, Paul graham says that creating a company is all consuming, so I imagine it would be like running a 300m dash 24/7, and he says it only gets more demanding the longer you’re in. 
+		- Even though I’m in the early stages of my startup, Paul graham says that creating a company is all consuming, so I imagine it would be like running a 300m dash 24/7, and he says it only gets more demanding the longer you’re in.
+- Surround yourself with billionaires and future billionaires
 
