@@ -39,7 +39,7 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
 		- If you hear someone else complaining or whining, think of a solution to solve it
   		- When you meet a company operator like a CEO, think about how you would run their company in their shoes for the better.
 - Take care of your health
-	- I personally would not trade a billion dollars if I could not play sports or hang out with my friends or chronic stress
+	- I personally would not trade a billion dollars if I could not play sports or hang out with my friends
  	- Eat more calories
   		- Your brain takes up 20% of your calorie budget
     	- if you eat more food you get more brain tokens
