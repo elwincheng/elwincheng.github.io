@@ -1,6 +1,6 @@
 November 2026
 
-I mostly see people talking about how to make 6, 7, and even 8 figures (though they are mostly "gurus" on youtube and social media), but rarely anyone talking about how to make 9+ figures. Today I will tell you how to increase your chances to make 10 figures. This is mostly a compilation of some things I have read recently, which include: zero to one by Peter while, scale by Geoffrey west, and of course, [How to Earn a Billionaire Dollars](https://paulgraham.com/earn.html) by Paul graham.
+I mostly see people talking about how to make 6, 7, and even 8 figures (though they are mostly "gurus" on youtube and social media), but rarely anyone talking about how to make 9+ figures. Today I will tell you how to increase your chances to make 10 figures. This is mostly a compilation of some things I have read recently, which include: zero to one by Peter while, scale by Geoffrey west, and of course, [How to Earn a Billionaire Dollars](https://paulgraham.com/earn.html) by Paul graham, and my experience living in a founder hacker house in San Francisco.
 
 Btw this page is the First sketch of my thoughts. I will probably add more thought and research into it.
 
@@ -38,4 +38,13 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
 		- Whenver you find yourself at least mildly discomfortable, think of a solution to it
 		- If you hear someone else complaining or whining, think of a solution to solve it
   		- When you meet a company operator like a CEO, think about how you would run their company in their shoes for the better.
+- Take care of your health
+	- I personally would not trade a billion dollars if I could not play sports or hang out with my friends or chronic stress
+ 	- Eat more calories
+  		- Your brain takes up 20% of your calorie budget
+    	- if you eat more food you get more brain tokens
+    - Don't say bad things about yourself to yourself or anyone else
+    	- I try to maintain a positive view of myself
+ 		- Don't let what other people think about you affect you
+    - 
 
