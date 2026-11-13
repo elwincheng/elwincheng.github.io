@@ -52,7 +52,7 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
  		- Don't let what other people think about you affect you
     		- I just imagine that they are probably not very smart
 - Working with others
-	- Focus on providing value to others first
+	- Focus on providing value to others
 - Thinking
 	- Always question your assumptions and intuition.
  		- Paul graham says that startups are notoriously counter intuitive (link here please) 
