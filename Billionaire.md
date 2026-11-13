@@ -49,6 +49,8 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
       	 	- It is better to go at your own pace then to burnout
 	  	- Don't chase social status or social prestige
     		- examples: degrees, school rankings, job title, income, research publications, Valorant/LOL rank, romantic partner etc.
+    	 		- Wait! but Elwin, the title of this is how to become a billionaire, yet you reject chasing income and social status???
+    	   			- I will think about this one, let me get back to you
     	 	- There is a limited amount, everyone wants it and the competition will drive you insane.
     	  	- Rene Girard argues this phenomena is mimetic desire. i.e. people want what other people want.
     	  		- Miming is useful for
