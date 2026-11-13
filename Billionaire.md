@@ -10,10 +10,10 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
 - Bet on serendipitous activities
 	- billion dollar ideas usually happen organically in the wild, e.g. airbnb, uber, stripe, scale ai
  	- Live in a city with high density of talented, creative, and open people
-  		- I have lived in a San Francisco founder/hacker house for 12 days and I've encountered more serendipity than the rest of my life 
-  	- Reading esoteric things
-  	- random conversations with roommates and strangers
-  	- thoughts during solitude	
+			- I have lived in a San Francisco founder/hacker house for 12 days and I've encountered more serendipity than the rest of my life 
+  - Reading esoteric things
+  - random conversations with roommates and strangers
+  - thoughts during solitude	
 - Try to find secrets
 	- Most obvious billion dollar ideas have  already been taken or have too many competitors.
 	- Examples: airbnb, uber, 
