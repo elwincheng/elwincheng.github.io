@@ -44,7 +44,11 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
      	- By doing good things 
  		- Don't let what other people think about you affect you
     		- I just imagine that they are probably not very smart
-	- Build or join a supportive community 
+      	- Don't make comparisons 
+      		- Everyone starts at different points in their achievements.
+      	 	- It is better to go at your own pace then to burnout 
+	- Build or join a supportive community
+	- Go at your own pace.
 - Working with others
 	- Focus on providing value to others
 - Thinking
