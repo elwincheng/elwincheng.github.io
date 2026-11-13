@@ -1,5 +1,5 @@
 
-I mostly see people talking about how to make 6, 7, and even 8 figures, but rarely anyone talking about how to make 9+ figures. Today I will tell you how to increase your chances to make 10 figures. This is mostly a compilation of some things I have read recently, which include: zero to one by Peter while, scale by Geoffrey west, and of course, how to become a billionaire by Paul graham.
+I mostly see people talking about how to make 6, 7, and even 8 figures (though they are mostly "gurus" on youtube and social media), but rarely anyone talking about how to make 9+ figures. Today I will tell you how to increase your chances to make 10 figures. This is mostly a compilation of some things I have read recently, which include: zero to one by Peter while, scale by Geoffrey west, and of course, how to become a billionaire by Paul graham.
 
 Btw this page is the First sketch of my thoughts. I will probably add more thought and research into it.
 
