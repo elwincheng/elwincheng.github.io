@@ -5,13 +5,10 @@ I mostly see people talking about how to make 6, 7, and even 8 figures (though t
 Btw this page is the First sketch of my thoughts. I will probably add more thought and research into it.
 
 - Use ai smartly
-	- Use ai for model distillation
-	- Use ai for mimetis
 	- Make using ai as frictionless as possible. Every ounce of friction uses up your human brain tokens, which is limited. 
 		- I personally use Google Chrome for its built in ai, i only need to press ctrl+g to use Gemini.
-- Read a lot
-- Have a community 
 - Bet on serendipitous activities
+	- billion dollar ideas usually happen organically in the wild, e.g. airbnb, uber, stripe, scale ai 
 - Try to find secrets
 	- Most obvious billion dollar ideas have  already been taken or have too many competitors.
 	- Examples: airbnb, uber, 
