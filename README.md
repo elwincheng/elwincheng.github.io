@@ -1,5 +1,5 @@
 
-- [Hello Page](Hello.md)
+- [Hello Page](hello.md)
 - [How to increase your chances of becoming a billionaire](Billionaire.md)
 - [Books](Books.md)
 
