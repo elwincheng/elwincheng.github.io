@@ -61,5 +61,10 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
 	- Be precise
  		- explain why here later 
  	- Get your theory into the real world by running experiments
--  
+-  Get good at english
+	- The reality is that in our universe, most business and thinking are done in English
+ 		- so it will be easier to work with these people
+   	- It will increase knowledge acquisition and thinking throughput
+   	- Just talk to people and ai
+   	- Read english works
 
