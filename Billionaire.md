@@ -67,4 +67,27 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
    	- It will increase knowledge acquisition and thinking throughput
    	- Just talk to people and ai
    	- Read english works
+- Increase pain tolerance/ignore pain
+	- Some valuable resources can only be acquired through temporary emotional suffering (unless you are a robot)
+ 		- getting rejected by vc over and over again
+  	- Because the upside risk heavily outweigh the downside risk
+  	- how
+		- play more poker
+  		- get rejected by more people
+-  Traits
+	- Emotional stability and resilience
+ 		- Being able to reason and think clearly during times of high stress and uncertainty
+   		- Having good health is the foundation for this
+ 	- Conciontousness
+  		- Being able to set goals and achieve them
+    - Definite Optimism
+    	- Belif that the future will be better and has a plan to make it happen
+     	- Originally defined in Peter Thiel's Zero to One
+- Make your workspace as ergonomic as possible
+	- I have a ergonomic mouse and keyboard, dual monitor with one vertical. 
+- Belief
+	- Do things that reinforce your belief that you can achieve it
+	- Surround yourself with the people you want to become 
+ 	- Look like someone who can achieve things
+  		- maintain a nice physical appearance can have good benefit to yourself   
 
