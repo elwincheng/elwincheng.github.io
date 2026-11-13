@@ -48,7 +48,7 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
       		- Everyone starts at different points in their achievements.
       	 	- It is better to go at your own pace then to burnout
 	  	- Don't chase social status or social prestige
-    		- examples: degrees, school rankings, job title, income, romantic partner etc.
+    		- examples: degrees, school rankings, job title, income, research publications, Valorant/LOL rank, romantic partner etc.
     	 	- There is a limited amount, everyone wants it and the competition will drive you insane.
     	  	- Rene Girard argues this phenomena is mimetic desire. i.e. people want what other people want.
     	  		- Miming is useful for
