@@ -1,6 +1,6 @@
 November 2026
 
-I mostly see people talking about how to make 6, 7, and even 8 figures (though they are mostly "gurus" on youtube and social media), but rarely anyone talking about how to make 9+ figures. Today I will tell you how to increase your chances to make 10 figures. This is mostly a compilation of some things I have read recently, which include: zero to one by Peter Thiel, scale by Geoffrey west, and of course, [How to Earn a Billionaire Dollars](https://paulgraham.com/earn.html) by Paul graham, and my experience living in a founder hacker house in San Francisco.
+I mostly see people talking about how to make 6, 7, and even 8 figures (though they are mostly "gurus" on youtube and social media), but rarely anyone talking about how to make 9+ figures. Today I will tell you how to increase your chances to make 10 figures (and hopefully still keep your health and sanity). This is mostly a compilation of some things I have read recently, which include: zero to one by Peter Thiel, scale by Geoffrey west, and of course, [How to Earn a Billionaire Dollars](https://paulgraham.com/earn.html) by Paul graham, and my experience living in a founder hacker house in San Francisco.
 
 Btw this page is the First sketch of my thoughts. I will probably add more thought and research into it.
 
@@ -46,7 +46,16 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
     		- I just imagine that they are probably not very smart
       	- Don't make comparisons 
       		- Everyone starts at different points in their achievements.
-      	 	- It is better to go at your own pace then to burnout 
+      	 	- It is better to go at your own pace then to burnout
+	  	- Don't chase social status or social prestige
+    		- examples: degrees, school rankings, job title, income, romantic partner etc.
+    	 	- There is a limited amount, everyone wants it and the competition will drive you insane.
+    	  	- Rene Girard argues this phenomena is mimetic desire. i.e. people want what other people want.
+    	  		- Miming is useful for
+    	  	 		- Quickly software downloading from other people
+    	  	   		- when the desired object is unlimited, such as knowledge and ideas,
+    	  	 	- but bad when the desire is placed on limited resources
+    	  	  	- The scientific evidence for this is mirror neurons. 
 	- Build or join a supportive community
 	- Go at your own pace.
 - Working with others
