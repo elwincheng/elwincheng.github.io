@@ -67,13 +67,16 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
    	- It will increase knowledge acquisition and thinking throughput
    	- Just talk to people and ai
    	- Read english works
-- Increase pain tolerance/ignore pain
+   		- My list of [books](books.md)
+   	 - Zero to one by peter thiel 
+- Expect failure, but also expect success (realism rather than pure optimism or pure pessimism)
 	- Some valuable resources can only be acquired through temporary emotional suffering (unless you are a robot)
  		- getting rejected by vc over and over again
   	- Because the upside risk heavily outweigh the downside risk
   	- how
 		- play more poker
   		- get rejected by more people
+  	- Power law dictates that for some actions, 90% will be failures, but the successes are astronomical
 -  Traits
 	- Emotional stability and resilience
  		- Being able to reason and think clearly during times of high stress and uncertainty
@@ -83,11 +86,16 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
     - Definite Optimism
     	- Belif that the future will be better and has a plan to make it happen
      	- Originally defined in Peter Thiel's Zero to One
+  	- Weird/eccentric
+   		- Peter thiel in Zero to One argues that this archetype have contrarian   
 - Make your workspace as ergonomic as possible
 	- I have a ergonomic mouse and keyboard, dual monitor with one vertical. 
 - Belief
 	- Do things that reinforce your belief that you can achieve it
 	- Surround yourself with the people you want to become 
  	- Look like someone who can achieve things
-  		- maintain a nice physical appearance can have good benefit to yourself   
+  		- maintain a nice physical appearance can have good benefit to yourself
+- Hockey stick growth/Markov chain
+	- It doesn't matter your past or history. If you are sufficiently young, you can become an expert in any field in a short amount of time. your current abilities and skills matter much less than you ability to get better.
+ 	- Famous example: Boom CEO went from ad tech at amazon to supersonic jets. Source: [Talk by Jon Xu of YC](https://www.startupschool.org/curriculum/Ri-how-to-pick-a-startup-idea)
 
