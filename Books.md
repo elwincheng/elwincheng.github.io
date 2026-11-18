@@ -1,2 +1,2 @@
 - Zero to One: Notes on Startups, Or How to Build the Future
-- 
+- Wanting: The Power of Mimetic Desire in Everyday Life
