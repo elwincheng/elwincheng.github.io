@@ -105,4 +105,10 @@ Btw this page is the First sketch of my thoughts. I will probably add more thoug
 - Hockey stick growth/Markov chain
 	- It doesn't matter your past or history. If you are sufficiently young, you can become an expert in any field in a short amount of time. your current abilities and skills matter much less than you ability to get better.
  	- Famous example: Boom CEO went from ad tech at amazon to supersonic jets. Source: [Talk by Jon Xu of YC](https://www.startupschool.org/curriculum/Ri-how-to-pick-a-startup-idea)
+- Most big innovations came from people outside their field of expertise
+	- Exception is Biotech because of how deep it is
+ 	- E.g. amazon didn't come from walmart
+  	- SpaceX never worked in space
+  	- Uber didn't come from a taxi company
+  	- Vinod Khosla: "No matter where I look, I can't think of a single example where somebody knew the area caused a large innovation.
 
