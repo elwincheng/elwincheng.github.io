@@ -1,1 +1,1 @@
--  [Startup Crucible](https://ammonia-overprice-dosage.ngrok-free.dev/) — Talk through your idea with investors and founder archetypes. 
+-  [Startup Crucible](https://github.com/elwincheng/startup-crucible) — Talk through your idea with investors and founder archetypes. 
